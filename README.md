@@ -1,1 +1,1 @@
-# Prolog_example
+# Rule-base Reasoning Example with Prolog
